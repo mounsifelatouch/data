@@ -3,7 +3,7 @@ This folder contains the data sets necessary to perform a machine learning proje
 
 ## Contents
 
-Folder | Description
+Dataset | Description
 ---|---
 [`bioactivity_data_raw.csv`](./bioactivity_data_raw.csv) | A data set containing chemical compounds and their associated bioactivity values.
 
