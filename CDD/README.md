@@ -9,7 +9,7 @@ Dataset | Description
 
 ## Usage
 
-The data sets in this folder can be used to train and test machine learning models for QSAR applications. Please refer to the individual data set files for information on the contents and format of each data set.
+The data sets in this folder can be used to train and test machine learning models for bioactivity prediction in QSAR applications. Please refer to the individual data set files for information on the contents and format of each data set.
 
 ## Credits
 
