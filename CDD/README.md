@@ -2,7 +2,7 @@
 This folder contains the data sets necessary to perform a machine learning project in the field of Quantitative Structure-Activity Relationship (QSAR). The data sets were collected from ChEMBL and were pre-processed for use in a QSAR model for bioactivity prediction.
 
 ## Contents
-- [`data_set_1.csv`](./data_set_1.csv): A data set containing chemical compounds and their associated bioactivity values.
+- [`bioactivity_data_raw.csv`](./bioactivity_data_raw.csv): A data set containing chemical compounds and their associated bioactivity values.
 - [`data_set_2.csv`](./data_set_2.csv): A data set containing molecular descriptors and their corresponding bioactivity values.
 - [`data_set_3.csv`](./data_set_3.csv): A data set containing physicochemical properties of chemical compounds.
 - `README.md`: This file, containing information about the contents of the folder.
