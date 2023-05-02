@@ -10,6 +10,4 @@ This folder contains the data sets necessary to perform a machine learning proje
 The data sets in this folder can be used to train and test machine learning models for QSAR applications. Please refer to the individual data set files for information on the contents and format of each data set.
 
 ## Credits
-The data sets in this folder were collected and pre-processed by [mounsifelatouch](mailto:mounsifelatouch@gmail.com). If you use these data sets in your research, please acknowledge the source by citing this GitHub repository.
-
-Feel free to customize this README to include any additional information that may be relevant to your project. Good luck with your machine learning project!
+The data sets in this folder were collected from ChEMBL and pre-processed by [mounsifelatouch]. If you have any questions or comments about the data sets, please feel free to contact me at [mounsifelatouch@gmail.com ](mailto:mounsifelatouch@gmail.com). If you use these data sets in your research, please acknowledge the source by citing this GitHub repository.
