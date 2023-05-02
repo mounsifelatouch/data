@@ -1,5 +1,5 @@
 # CDD: Machine Learning Project Data Sets
-This folder contains the data sets necessary to perform a machine learning project in the field of Quantitative Structure-Activity Relationship (QSAR). The data sets were collected from various sources and were pre-processed for use in a QSAR model.
+This folder contains the data sets necessary to perform a machine learning project in the field of Quantitative Structure-Activity Relationship (QSAR). The data sets were collected from ChEMBL and were pre-processed for use in a QSAR model for bioactivity prediction.
 
 ## Contents
 - [`data_set_1.csv`](./data_set_1.csv): A data set containing chemical compounds and their associated bioactivity values.
