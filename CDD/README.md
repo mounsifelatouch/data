@@ -9,7 +9,7 @@ Dataset | Description
 
 ## Usage
 
-The data sets in this folder can be used to train and test machine learning models for bioactivity prediction in QSAR applications. 
+The data sets in this folder are pre-processed and suitable for use in developing machine learning models for bioactivity prediction in QSAR applications. These data sets contain chemical compounds with associated bioactivity values, as well as molecular descriptors and physicochemical properties of the compounds. The data sets are in CSV format and can be easily loaded into machine learning libraries such as scikit-learn or TensorFlow. For more information on the contents and format of each data set, please refer to the individual data set files.
 
 ## Credits
 
